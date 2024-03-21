@@ -9,7 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
----
 
 ## Streamlit OCR Web Application
 
