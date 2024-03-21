@@ -9,8 +9,6 @@ app_file: app.py
 pinned: false
 ---
 
-To answer the question in your README on GitHub regarding your Streamlit app deployed on Hugging Face:
-
 ---
 
 ## Streamlit OCR Web Application
