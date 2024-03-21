@@ -1,7 +1,7 @@
 ---
 title: Image To Text
-emoji: 🏃
-colorFrom: purple
+emoji: 💩
+colorFrom: brown
 colorTo: pink
 sdk: streamlit
 sdk_version: 1.32.2
