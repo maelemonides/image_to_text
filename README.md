@@ -37,7 +37,7 @@ The application does not rely on any specific dataset as it performs text extrac
 ### Deployment
 The Streamlit OCR Web Application is deployed on Hugging Face Spaces, providing a seamless user experience for accessing the OCR functionality directly from the web browser.
 
-**Link to the deployed application:** [Streamlit OCR Web App](insert_your_hugging_face_spaces_link_here)
+**Link to the deployed application:** [Streamlit OCR Web App](https://huggingface.co/spaces/canoris/image_to_text)
 
 ### Future Improvements
 - Implementing additional features such as language selection for OCR.
