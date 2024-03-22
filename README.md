@@ -53,7 +53,6 @@ This project incorporates robust testing methodologies to ensure the accuracy an
 
 The Streamlit OCR Web Application is deployed on Hugging Face Spaces, offering a seamless user experience for text extraction from images. The rigorous testing process ensures that users receive accurate and reliable results.
 
-**Link to the deployed application:** [Streamlit OCR Web App](https://huggingface.co/spaces/canoris/image_to_text)
 
 ### Future Improvements
 - Continuous Integration (CI) and Continuous Deployment (CD) pipelines to automate the testing and deployment process.
